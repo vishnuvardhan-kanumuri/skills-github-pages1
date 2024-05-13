@@ -1,4 +1,6 @@
+# Vishnu
+
 ---
-title: Welcome to my blog
+title: Vishnu's BLOG
 ---
 
